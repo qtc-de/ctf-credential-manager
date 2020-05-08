@@ -8,7 +8,7 @@ import pyperclip
 import subprocess
 
 # general settings
-seperator_length = 40
+seperator_length = 35
 default_username = 'No Name'
 credential_file = os.path.expanduser('~/.cred')
 
