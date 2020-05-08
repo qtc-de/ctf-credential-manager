@@ -1,4 +1,4 @@
-## CTF Credential Manager
+### CTF Credential Manager
 
 ----
 
@@ -119,3 +119,6 @@ bindsym $mod+p --release exec --no-startup-id cred
 This tool should not be used to store any sensitive information like private usernames or passwords.
 As mentioned above, all entered credentials are saved as plaintext on your disk. This behavior is insecure
 and should only be used to store non sensitive data, like credentials obtained during a *CTF*.
+
+
+Copyright 2020, Tobias Neitzel and the *ctf-credential-manager* contributors.
